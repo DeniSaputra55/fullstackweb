@@ -1,0 +1,119 @@
+/* body */
+body {
+    margin: 0;
+    padding: 0;
+}
+/* navbar */
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*h2 */
+h2 {
+    margin: 0;
+    padding-left: 50px;
+}
+/* ul */
+ul {
+    list-style: none;
+    margin: 0;
+    padding-right: 50px;
+    display: flex;
+}
+/* li */
+li {
+    margin-left: 30px;
+}
+/* a */
+a {
+    text-decoration: none;
+    color: #fff;
+}
+/* hero */
+.hero {
+    background-color: beige;
+   height: 70vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+/* hero h1 */
+.hero h1{
+    font-size: 70px;
+    text-align: center;
+    font-weight: 200;
+}
+/* hero p */
+.hero p {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 200;
+}
+/* button */
+.btn {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+/* service */
+.service {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+/* h2 */
+h2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+/* card */
+.card {
+    width: 300px;
+    background-color: beige;
+    border-radius: 10px;
+    border: 1px solid #333;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+/* card img */
+.card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+/*contact */
+.contact {
+    background-color: blanchedalmond;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+/* contact h2 */
+.contact h2 {
+    font-size: 4opx;
+    text-align: center;
+    margin-bottom: 50px;
+}
+/*footer */
+footer {
+    background-color: grey;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+}
